@@ -1,0 +1,55 @@
+.homepage_container{
+    display:flex;
+    align-items:center;
+    height:90vh;
+}
+.homepage_left{
+    flex:0.55;
+    padding-right:30px;
+}
+.homepage_right{
+    flex:0.45;
+}
+.homepage_right > img{
+    width:100%;
+    
+}
+.homepage_left_h1{
+    color:white;
+    font-size: 22px;
+}
+.red_color{
+    font-weight: 400;
+    color:rgb(1, 23, 55);
+}
+.homepage_left_h2{
+    color:white;
+    font-size:48px;
+    font-weight:550;
+}
+.homepage_left_h3{
+    color:white;
+    font-size: 30px;
+}
+.homepage_left_descp{
+    color:rgb(213, 218, 234);
+
+    font-size:15px;
+}
+.homepage_logo{
+    height:60px;
+}
+.homepage_left_button{
+    border-radius:12px;
+    font-size:20px;
+    padding:8px 10px;
+    background-color: rgb(155, 159, 177);
+    color:rgba(0,29,74);
+    cursor:pointer;
+    border: none;
+    box-shadow:0px 0px 2px 2px  rgb(187, 189, 200);
+}
+.homepage_left_button:hover{
+    font-size:25px;
+
+}

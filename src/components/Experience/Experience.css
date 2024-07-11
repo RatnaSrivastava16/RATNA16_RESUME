@@ -1,0 +1,13 @@
+.experience_title{
+    font-size: 50px;
+    font-weight:700;
+    text-align: center;
+    color:#022a4f;
+    text-shadow:4px 4px 2.5px   rgb(227, 216, 216);
+}
+.experience_cards_container{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
